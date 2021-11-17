@@ -1,5 +1,15 @@
+
 {
-    "webcredentials": {
-        "apps": ["XJ9989WZDY.com.person.yqj"]
-    }
+  "applinks": {
+     "apps": [],
+     "details": [
+          {
+       "appID": "XJ9989WZDY.com.person.yqj",
+       "paths": ["*"]
+          }
+      ]
+  },
+  "webcredentials": {
+     "apps": ["XJ9989WZDY.com.person.yqj"]
+  }
 }
