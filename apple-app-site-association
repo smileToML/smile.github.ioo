@@ -1,15 +1,5 @@
-
 {
-  "applinks": {
-     "apps": [],
-     "details": [
-          {
-       "appID": "XJ9989WZDY.com.person.yqj",
-       "paths": ["*"]
-          }
-      ]
-  },
-  "webcredentials": {
-     "apps": ["XJ9989WZDY.com.person.yqj"]
-  }
+    "webcredentials":{
+        "apps":["XGD583L788.com.idf.test"] 
+    }
 }
